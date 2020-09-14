@@ -13,4 +13,4 @@ The only systematic discrepancies between ICPSR and FIPS codes occur in Maryland
 In Nevada, Pershing County has FIPS code 027 and historical Ormsby County has FIPS code 025. In the ICSPR scheme, Pershing County has code 0250, and Ormsby County uses the Carson City county code of 0510. (Ormsby County was consolidated with Carson City in 1969.) The historical (1870) Rio Virgin County uses ICPSR county code 0270."
 
 
-Finally, there are some counties with a ICP code ending with 5 or 7. In the words of ipums, are "Generally, if a county merged with another or was renamed before 1970, it receives a fourth digit of "5""
+Finally, there are some counties with a ICP code ending with 5 or 7. In the words of ipums, are "Generally, if a county merged with another or was renamed before 1970, it receives a fourth digit of "5"". These counties can be found in "icpsrcnt_notEndingIn0.csv"
